@@ -50,6 +50,7 @@
   height: 150px;
   border: #f9c310 solid 3px;
   background-size: contain;
+  background-position: center;
 }
 
 .main__list__item__h2 {
@@ -85,4 +86,8 @@
 
 .img__01 {
   background-image: url('../img/01_img.png');
+}
+
+.img__02 {
+  background-image: url('../img/02_img.png');
 }
