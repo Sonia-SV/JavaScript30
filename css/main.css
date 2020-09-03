@@ -6,6 +6,7 @@
   color: inherit;
   margin: 0;
   box-sizing: border-box;
+  padding-inline-start: 0;
 }
 
 .body {
@@ -33,6 +34,7 @@
   grid-template-columns: repeat(auto-fit, minmax(150px, 250px));
   grid-gap: 15px;
   justify-content: space-evenly;
+  margin: 20px;
 }
 
 .main__list__item {
@@ -114,4 +116,8 @@
 
 .img__08 {
   background-image: url('../img/08_img.png');
+}
+
+.img__09 {
+  background-image: url('../img/09_img.png');
 }
