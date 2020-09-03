@@ -39,7 +39,7 @@
 
 .main__list__item {
   background-color: #faf1d4;
-  border-radius: 5px;
+  border-radius: 3px;
   color: #201d48;
 }
 .main__list__item:hover {
@@ -120,4 +120,8 @@
 
 .img__09 {
   background-image: url('../img/09_img.png');
+}
+
+.img__10 {
+  background-image: url('../img/10_img.png');
 }
